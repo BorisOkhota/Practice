@@ -1,0 +1,5 @@
+C:\Users\dell\Desktop\25.05\Task8\GeneratorTask8\bin\Debug\GeneratorTask8.exe.config
+C:\Users\dell\Desktop\25.05\Task8\GeneratorTask8\bin\Debug\GeneratorTask8.exe
+C:\Users\dell\Desktop\25.05\Task8\GeneratorTask8\bin\Debug\GeneratorTask8.pdb
+C:\Users\dell\Desktop\25.05\Task8\GeneratorTask8\obj\Debug\GeneratorTask8.exe
+C:\Users\dell\Desktop\25.05\Task8\GeneratorTask8\obj\Debug\GeneratorTask8.pdb

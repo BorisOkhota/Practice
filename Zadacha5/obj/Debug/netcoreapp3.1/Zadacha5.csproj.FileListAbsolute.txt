@@ -1,0 +1,10 @@
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Zadacha5\bin\Debug\netcoreapp3.1\Zadacha5.exe
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Zadacha5\bin\Debug\netcoreapp3.1\Zadacha5.deps.json
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Zadacha5\bin\Debug\netcoreapp3.1\Zadacha5.runtimeconfig.json
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Zadacha5\bin\Debug\netcoreapp3.1\Zadacha5.runtimeconfig.dev.json
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Zadacha5\bin\Debug\netcoreapp3.1\Zadacha5.dll
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Zadacha5\bin\Debug\netcoreapp3.1\Zadacha5.pdb
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Zadacha5\obj\Debug\netcoreapp3.1\Zadacha5.AssemblyInfoInputs.cache
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Zadacha5\obj\Debug\netcoreapp3.1\Zadacha5.AssemblyInfo.cs
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Zadacha5\obj\Debug\netcoreapp3.1\Zadacha5.dll
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Zadacha5\obj\Debug\netcoreapp3.1\Zadacha5.pdb

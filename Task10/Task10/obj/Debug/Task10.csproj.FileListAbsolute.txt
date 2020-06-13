@@ -1,0 +1,6 @@
+C:\Users\dell\Desktop\25.05\Task10\Task10\obj\Debug\Task10.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\25.05\Task10\Task10\bin\Debug\Task10.exe.config
+C:\Users\dell\Desktop\25.05\Task10\Task10\bin\Debug\Task10.exe
+C:\Users\dell\Desktop\25.05\Task10\Task10\bin\Debug\Task10.pdb
+C:\Users\dell\Desktop\25.05\Task10\Task10\obj\Debug\Task10.exe
+C:\Users\dell\Desktop\25.05\Task10\Task10\obj\Debug\Task10.pdb

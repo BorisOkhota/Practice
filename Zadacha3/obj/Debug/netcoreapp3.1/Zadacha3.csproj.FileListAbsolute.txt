@@ -1,0 +1,11 @@
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Zadacha3\bin\Debug\netcoreapp3.1\Zadacha3.exe
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Zadacha3\bin\Debug\netcoreapp3.1\Zadacha3.deps.json
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Zadacha3\bin\Debug\netcoreapp3.1\Zadacha3.runtimeconfig.json
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Zadacha3\bin\Debug\netcoreapp3.1\Zadacha3.runtimeconfig.dev.json
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Zadacha3\bin\Debug\netcoreapp3.1\Zadacha3.dll
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Zadacha3\bin\Debug\netcoreapp3.1\Zadacha3.pdb
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Zadacha3\obj\Debug\netcoreapp3.1\Zadacha3.csprojAssemblyReference.cache
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Zadacha3\obj\Debug\netcoreapp3.1\Zadacha3.AssemblyInfoInputs.cache
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Zadacha3\obj\Debug\netcoreapp3.1\Zadacha3.AssemblyInfo.cs
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Zadacha3\obj\Debug\netcoreapp3.1\Zadacha3.dll
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Zadacha3\obj\Debug\netcoreapp3.1\Zadacha3.pdb
