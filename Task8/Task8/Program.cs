@@ -40,15 +40,18 @@ namespace Task8
 
         public static int[] Solve(int n,int m, int[,] matr)
         {
-            int[] col = new int[n];//цвета
-            int[,] arr = new int[n, n]; //матрица смежности
+            int[] col = new int[n];         //цвета
+            int[,] arr = new int[n, n];     //матрица смежности
             for (int i = 0; i < m; ++i)
             {
                 int v1 = -1, v2 = -1;
                 for (int j = 0; j < n; j++)
                 {
-                    if (v1 == -1 && matr[j, i] == 1) v1 = j;
-                    else if (v2 == -1 && matr[j, i] == 1) v2 = j;
+                    if (v1 == -1 && matr[j, i] == 1) 
+                        v1 = j;
+                    else 
+                    if (v2 == -1 && matr[j, i] == 1) 
+                        v2 = j;
                 }
                 arr[v1, v2] = 1;
                 arr[v2, v1] = 1;
@@ -69,8 +72,8 @@ namespace Task8
             Console.WriteLine("Введите количество красок");
             int k = ReadInt(0);
 
-            int[] col;//цвета
-            int[,] matr = new int[n, m];//матрица инциденций
+            int[] col;                      //цвета
+            int[,] matr = new int[n, m];    //матрица инциденций
             for(int i = 0; i < n; ++i)
             {
                 for(int j=0; j < m; j++)

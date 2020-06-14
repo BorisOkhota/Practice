@@ -33,6 +33,7 @@ namespace Task9
         {
             beginning = CreateList(beginning, 1, n);
         }
+
         private static Node CreateList(Node p, int number, int maxNumber)
         {
             if (p!=null) p.Prev = p;
@@ -56,15 +57,18 @@ namespace Task9
             }
             return null;
         }
+
         public int Search(int number)
         {
             var ans = SearchNode(beginning, number);
             return ans == null ? -1 : ans.Data;
         }
+
         public void Remove(int number)
         {
             beginning= RemoveNode(beginning, number);
         }
+
         private static Node RemoveNode(Node p, int number)
         {
             if (p == null)
