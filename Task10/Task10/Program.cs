@@ -57,7 +57,7 @@ namespace Task10
 			beginning = r;
 			return r;
 		}
-		public void Run(int level,Queue<Node> queue)
+		public void Run(int level, Queue<Node> queue, ref string str)
 		{
 			int count = 0;
 			Queue<Node> tmp = new Queue<Node>();
@@ -65,12 +65,12 @@ namespace Task10
 			{
 				count = 1;
 				if (beginning.Left != null) tmp.Enqueue(beginning.Left);
-				if (beginning.Right!= null) tmp.Enqueue(beginning.Right);
+				if (beginning.Right != null) tmp.Enqueue(beginning.Right);
 			}
-			else if(queue.Count!=0)
+			else if (queue.Count != 0)
 			{
 				count = queue.Count;
-				foreach(var v in queue)
+				foreach (var v in queue)
 				{
 					if (v.Left != null) tmp.Enqueue(v.Left);
 					if (v.Right != null) tmp.Enqueue(v.Right);
@@ -80,19 +80,19 @@ namespace Task10
 			{
 				return;
 			}
-			Console.WriteLine($"На уровне {level+1} {count} вершин");
-			Run(level + 1, tmp);
+			str += ($"На уровне {level + 1} {count} вершин\n");
+			Run(level + 1, tmp, ref str);
 		}
 	}
 	public class Program
-    {
-        public static void Main(string[] args)
-        {
+	{
+		public static void Main(string[] args)
+		{
 			var tree = new Tree();
 			tree.Ideal(10, new Tree.Node(), new int[] { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 });
 			string str = "";
-			tree.Run(0, null);
+			tree.Run(0, null, ref str);
 			Console.WriteLine(str);
-        }
-    }
+		}
+	}
 }

@@ -37,6 +37,7 @@ namespace Task8
             } while (!ok);
             return number;
         }
+
         public static int[] Solve(int n,int m, int[,] matr)
         {
             int[] col = new int[n];//цвета
@@ -58,6 +59,7 @@ namespace Task8
                         col[j] = col[i] + 1;
             return col;
         }
+
         static void Main(string[] args)
         {
             Console.WriteLine("Введите количество вершин");
@@ -77,6 +79,23 @@ namespace Task8
                     matr[i, j] = ReadInt(0, 1);
                 }
             }
+
+            bool ok = true;
+            for (int i = 0; i < m && ok; ++i)
+            {
+                int count = 0;
+                for (int j = 0; j < n; ++j)
+                {
+                    count += matr[j, i];
+                }
+                if (count > 2)
+                    ok = false;
+            }
+            if (!ok)
+            {
+                throw new Exception();
+            }
+
             col = Solve(n, m, matr);
             int max = col[0];
             for (int j = 1; j < n; ++j)

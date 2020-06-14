@@ -14,17 +14,17 @@ namespace Zadacha1
             string[] Dannie2 = VhodnieDannie2.Split(' ');
             string[] Dannie3 = VhodnieDannie3.Split(' ');
 
-            int x = int.Parse(Dannie1[0]);
-            int y = int.Parse(Dannie1[1]);
+            long x = int.Parse(Dannie1[0]);
+            long y = int.Parse(Dannie1[1]);
 
-            int Vx = int.Parse(Dannie2[0]);
-            int Vy = int.Parse(Dannie2[1]);
+            long Vx = int.Parse(Dannie2[0]);
+            long Vy = int.Parse(Dannie2[1]);
 
-            int V = int.Parse(Dannie3[0]);
-            int t = int.Parse(Dannie3[1]);
-            int d = int.Parse(Dannie3[2]);
+            long V = int.Parse(Dannie3[0]);
+            long t = int.Parse(Dannie3[1]);
+            long d = int.Parse(Dannie3[2]);
 
-            Int32 R = (x + Vx * t)*(x + Vx * t) + (y + Vy * t)* (y + Vy * t);
+            long R = (x + Vx * t)*(x + Vx * t) + (y + Vy * t)* (y + Vy * t);
 
             if ((R < ((d - V * t)*(d - V * t)) && ((d - V * t) >= 0)) || (((d + V * t)*(d + V * t)) < R))
                 Console.WriteLine("NO");

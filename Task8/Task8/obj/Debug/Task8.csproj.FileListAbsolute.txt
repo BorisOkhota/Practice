@@ -3,3 +3,9 @@ C:\Users\dell\Desktop\25.05\Task8\Task8\bin\Debug\Task8.exe
 C:\Users\dell\Desktop\25.05\Task8\Task8\bin\Debug\Task8.pdb
 C:\Users\dell\Desktop\25.05\Task8\Task8\obj\Debug\Task8.exe
 C:\Users\dell\Desktop\25.05\Task8\Task8\obj\Debug\Task8.pdb
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Practice\Task8\Task8\bin\Debug\Task8.exe.config
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Practice\Task8\Task8\bin\Debug\Task8.exe
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Practice\Task8\Task8\bin\Debug\Task8.pdb
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Practice\Task8\Task8\obj\Debug\Task8.csprojAssemblyReference.cache
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Practice\Task8\Task8\obj\Debug\Task8.exe
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Practice\Task8\Task8\obj\Debug\Task8.pdb

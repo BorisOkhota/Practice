@@ -3,3 +3,9 @@ C:\Users\dell\Desktop\25.05\Task8\GeneratorTask8\bin\Debug\GeneratorTask8.exe
 C:\Users\dell\Desktop\25.05\Task8\GeneratorTask8\bin\Debug\GeneratorTask8.pdb
 C:\Users\dell\Desktop\25.05\Task8\GeneratorTask8\obj\Debug\GeneratorTask8.exe
 C:\Users\dell\Desktop\25.05\Task8\GeneratorTask8\obj\Debug\GeneratorTask8.pdb
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Practice\Task8\GeneratorTask8\bin\Debug\GeneratorTask8.exe.config
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Practice\Task8\GeneratorTask8\bin\Debug\GeneratorTask8.exe
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Practice\Task8\GeneratorTask8\bin\Debug\GeneratorTask8.pdb
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Practice\Task8\GeneratorTask8\obj\Debug\GeneratorTask8.csprojAssemblyReference.cache
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Practice\Task8\GeneratorTask8\obj\Debug\GeneratorTask8.exe
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Practice\Task8\GeneratorTask8\obj\Debug\GeneratorTask8.pdb

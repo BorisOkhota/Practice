@@ -9,7 +9,7 @@ namespace Zadacha4
             double xLeft = -1, xRight = 0, e = 0.002;
             bool ok = false;
 
-            /*Console.WriteLine("Введите вещественное число - точность вычисления корня уравнения");
+            Console.WriteLine("Введите вещественное число - точность вычисления корня уравнения");
             while (!ok)
             {
                 try
@@ -22,7 +22,7 @@ namespace Zadacha4
                     ok = false;
                     Console.WriteLine("Неверный формат. Введите вещественное число..");
                 }
-            }*/
+            }
 
             double x = MethodChord(xLeft, xRight, e);
             Console.WriteLine(x);
