@@ -80,19 +80,21 @@ namespace Task8
                 }
             }
 
+            // проверка матрицы на валидность
             bool ok = true;
-            for (int i = 0; i < m && ok; ++i)
+            for (int i = 0; (i < m) && ok; ++i)
             {
                 int count = 0;
                 for (int j = 0; j < n; ++j)
                 {
                     count += matr[j, i];
                 }
-                if (count > 2)
+                if (count != 2)
                     ok = false;
             }
             if (!ok)
             {
+                Console.WriteLine("Матрица введена неправильно");
                 throw new Exception();
             }
 
