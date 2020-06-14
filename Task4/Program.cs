@@ -34,15 +34,12 @@ namespace Zadacha4
             double xSled = 0;
             double tmp;
 
-            do
+            while (Math.Abs(xNast - xPred) > e)
             {
-                tmp = xSled;
-                xSled = xNast - (func(xNast) * (xPred - xNast) / (func(xPred) - func(xNast)));
-                xPred = xNast;
-                xNast = tmp;
-            } while (Math.Abs(xSled - xNast) > e);
-
-            return xSled;
+                xPred = xNast - (xNast - xPred) * func(xNast) / (func(xNast) - func(xPred));
+                xNast = xPred - (xPred - xNast) * func(xPred) / (func(xPred) - func(xNast));
+            }
+            return b;
         }
 
         public static double func(double x)

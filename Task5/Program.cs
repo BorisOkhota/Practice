@@ -54,7 +54,7 @@ namespace Zadacha5
                     }
 
                 if (!check)
-                    Vivod += " " + "1";
+                    Vivod += " 1";
             }
 
             Console.WriteLine($"Ваш вывод:{Vivod}");

@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Task7
 {
@@ -26,6 +24,7 @@ namespace Task7
         {
             root = new Node(-1);
         }
+
         public Node root { get; set; }
         public static List<string> words;
 
@@ -123,6 +122,7 @@ namespace Task7
             } while (!ok);
             return number;
         }
+
         static bool CheckLengths(int[] lengths)
         {
             double sum = 0;
@@ -133,6 +133,7 @@ namespace Task7
                 return true;
             return false;
         }
+
         public static Tree Solve(int[] lengthsOfWords)
         {
             lengthsOfWords = lengthsOfWords.OrderBy(num => num).ToArray();
@@ -144,6 +145,7 @@ namespace Task7
             Tree.GenerateWords(tree.root, string.Empty);
             return tree;
         }
+
         static void Main(string[] args)
         {
             bool isOk;

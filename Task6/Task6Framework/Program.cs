@@ -38,6 +38,7 @@ namespace Task6
 
         public static List<double> arr;
 
+        // Рекурсивное заполнение массива
         public static void Rec(int index, double n)
         {
             double a = arr[index - 1] / 3 - arr[index - 2] / 2 - arr[index - 3] * 2 / 3;

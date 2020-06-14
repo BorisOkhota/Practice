@@ -3,3 +3,9 @@ C:\Users\dell\Desktop\25.05\Task6\Task6Framework\bin\Debug\Task6Framework.exe
 C:\Users\dell\Desktop\25.05\Task6\Task6Framework\bin\Debug\Task6Framework.pdb
 C:\Users\dell\Desktop\25.05\Task6\Task6Framework\obj\Debug\Task6Framework.exe
 C:\Users\dell\Desktop\25.05\Task6\Task6Framework\obj\Debug\Task6Framework.pdb
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Practice\Task6\Task6Framework\bin\Debug\Task6Framework.exe.config
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Practice\Task6\Task6Framework\bin\Debug\Task6Framework.exe
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Practice\Task6\Task6Framework\bin\Debug\Task6Framework.pdb
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Practice\Task6\Task6Framework\obj\Debug\Task6.csprojAssemblyReference.cache
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Practice\Task6\Task6Framework\obj\Debug\Task6Framework.exe
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Practice\Task6\Task6Framework\obj\Debug\Task6Framework.pdb

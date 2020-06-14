@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\borib\\OneDrive\\Рабочий стол\\Коды Лабораторок\\Практика\\Практика\\Практика.csproj": {}
+    "C:\\Users\\borib\\OneDrive\\Рабочий стол\\Коды Лабораторок\\Практика\\Practice\\Практика\\Практика.csproj": {}
   },
   "projects": {
-    "C:\\Users\\borib\\OneDrive\\Рабочий стол\\Коды Лабораторок\\Практика\\Практика\\Практика.csproj": {
+    "C:\\Users\\borib\\OneDrive\\Рабочий стол\\Коды Лабораторок\\Практика\\Practice\\Практика\\Практика.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\borib\\OneDrive\\Рабочий стол\\Коды Лабораторок\\Практика\\Практика\\Практика.csproj",
+        "projectUniqueName": "C:\\Users\\borib\\OneDrive\\Рабочий стол\\Коды Лабораторок\\Практика\\Practice\\Практика\\Практика.csproj",
         "projectName": "Практика",
-        "projectPath": "C:\\Users\\borib\\OneDrive\\Рабочий стол\\Коды Лабораторок\\Практика\\Практика\\Практика.csproj",
+        "projectPath": "C:\\Users\\borib\\OneDrive\\Рабочий стол\\Коды Лабораторок\\Практика\\Practice\\Практика\\Практика.csproj",
         "packagesPath": "C:\\Users\\borib\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\borib\\OneDrive\\Рабочий стол\\Коды Лабораторок\\Практика\\Практика\\obj\\",
+        "outputPath": "C:\\Users\\borib\\OneDrive\\Рабочий стол\\Коды Лабораторок\\Практика\\Practice\\Практика\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\borib\\AppData\\Roaming\\NuGet\\NuGet.Config",
