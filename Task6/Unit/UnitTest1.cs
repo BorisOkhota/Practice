@@ -10,11 +10,16 @@ namespace Unit
         [TestMethod]
         public void TestMethod1()
         {
+            NewMethod();
+            Assert.AreEqual(Program.arr, Program.arr);
+        }
+
+        private static void NewMethod()
+        {
             Program.arr.Add(100);
             Program.arr.Add(200);
             Program.arr.Add(300);
-            Program.Rec(3,5);
-            Assert.AreEqual(Program.arr, Program.arr);
+            Program.Rec(3, 5);
         }
     }
 }

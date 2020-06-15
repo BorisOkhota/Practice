@@ -1,0 +1,5 @@
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Practice\Task7\.vs\Task7\v16\lut\0\b\Task7\bin\Debug\Task7.exe.config
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Practice\Task7\.vs\Task7\v16\lut\0\b\Task7\bin\Debug\Task7.exe
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Practice\Task7\.vs\Task7\v16\lut\0\i\Task7\Debug\Task7.csprojAssemblyReference.cache
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Practice\Task7\.vs\Task7\v16\lut\0\i\Task7\Debug\Task7.csproj.CopyComplete
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Practice\Task7\.vs\Task7\v16\lut\0\i\Task7\Debug\Task7.exe

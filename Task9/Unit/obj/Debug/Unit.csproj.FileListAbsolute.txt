@@ -17,3 +17,22 @@ C:\Users\dell\Desktop\25.05\Task9\Unit\obj\Debug\Unit.csprojAssemblyReference.ca
 C:\Users\dell\Desktop\25.05\Task9\Unit\obj\Debug\Unit.csproj.CopyComplete
 C:\Users\dell\Desktop\25.05\Task9\Unit\obj\Debug\Unit.dll
 C:\Users\dell\Desktop\25.05\Task9\Unit\obj\Debug\Unit.pdb
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Practice\Task9\Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Practice\Task9\Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Practice\Task9\Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Practice\Task9\Unit\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Practice\Task9\Unit\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Practice\Task9\Unit\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Practice\Task9\Unit\bin\Debug\Unit.dll
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Practice\Task9\Unit\bin\Debug\Unit.pdb
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Practice\Task9\Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Practice\Task9\Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Practice\Task9\Unit\bin\Debug\Task9.exe
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Practice\Task9\Unit\bin\Debug\Task9.pdb
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Practice\Task9\Unit\bin\Debug\Task9.exe.config
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Practice\Task9\Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Practice\Task9\Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Practice\Task9\Unit\obj\Debug\Unit.csprojAssemblyReference.cache
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Practice\Task9\Unit\obj\Debug\Unit.csproj.CopyComplete
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Practice\Task9\Unit\obj\Debug\Unit.dll
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Practice\Task9\Unit\obj\Debug\Unit.pdb

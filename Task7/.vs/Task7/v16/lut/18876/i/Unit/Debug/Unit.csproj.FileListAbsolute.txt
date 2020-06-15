@@ -1,0 +1,10 @@
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Practice\Task7\.vs\Task7\v16\lut\0\b\Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Practice\Task7\.vs\Task7\v16\lut\0\b\Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Practice\Task7\.vs\Task7\v16\lut\0\b\Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Practice\Task7\.vs\Task7\v16\lut\0\b\Unit\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Practice\Task7\.vs\Task7\v16\lut\0\b\Unit\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Practice\Task7\.vs\Task7\v16\lut\0\b\Unit\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Practice\Task7\.vs\Task7\v16\lut\0\b\Unit\bin\Debug\Unit.dll
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Practice\Task7\.vs\Task7\v16\lut\0\i\Unit\Debug\Unit.csprojAssemblyReference.cache
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Practice\Task7\.vs\Task7\v16\lut\0\i\Unit\Debug\Unit.csproj.CopyComplete
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Practice\Task7\.vs\Task7\v16\lut\0\i\Unit\Debug\Unit.dll
