@@ -30,6 +30,7 @@ namespace Zadacha1
                 Console.WriteLine("NO");
             else
                 Console.WriteLine("YES");
+            Console.ReadLine();
         }
     }
 }

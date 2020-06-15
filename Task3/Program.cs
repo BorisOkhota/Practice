@@ -30,6 +30,7 @@ namespace Zadacha3
                 Console.WriteLine("u = " + -3);
             else
                 Console.WriteLine("u = " + Math.Pow(y, 2));
+            Console.ReadLine();
         }
     }
 }
