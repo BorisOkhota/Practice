@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Zadacha4
+namespace Task4
 {
     class Program
     {
@@ -15,12 +15,22 @@ namespace Zadacha4
                 try
                 {
                     e = double.Parse(Console.ReadLine());
-                    ok = true;
+                    if (e >= 0 && e <= 1) ok = true;
+                    else
+                    {
+                        Console.WriteLine($"Ошибка. Число выход за границы. Введите число большее {0} и меньшее {1}");
+                        ok = false;
+                    }
                 }
-                catch (Exception)
+                catch (FormatException)
                 {
                     ok = false;
                     Console.WriteLine("Неверный формат. Введите вещественное число..");
+                }
+                catch (OverflowException)
+                {
+                    Console.WriteLine($"Ошибка. Число выход за границы. Введите число большее {0} и меньшее {1}");
+                    ok = false;
                 }
             }
 
@@ -39,7 +49,7 @@ namespace Zadacha4
                 xPred = xNast - (xNast - xPred) * func(xNast) / (func(xNast) - func(xPred));
                 xNast = xPred - (xPred - xNast) * func(xPred) / (func(xPred) - func(xNast));
             }
-            return b;
+            return xPred;
         }
 
         public static double func(double x)

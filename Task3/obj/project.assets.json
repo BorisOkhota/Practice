@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\borib\\OneDrive\\Рабочий стол\\Коды Лабораторок\\Практика\\Zadacha3\\Zadacha3.csproj",
+      "projectUniqueName": "C:\\Users\\borib\\OneDrive\\Рабочий стол\\Коды Лабораторок\\Практика\\Practice\\Task3\\Zadacha3.csproj",
       "projectName": "Zadacha3",
-      "projectPath": "C:\\Users\\borib\\OneDrive\\Рабочий стол\\Коды Лабораторок\\Практика\\Zadacha3\\Zadacha3.csproj",
+      "projectPath": "C:\\Users\\borib\\OneDrive\\Рабочий стол\\Коды Лабораторок\\Практика\\Practice\\Task3\\Zadacha3.csproj",
       "packagesPath": "C:\\Users\\borib\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\borib\\OneDrive\\Рабочий стол\\Коды Лабораторок\\Практика\\Zadacha3\\obj\\",
+      "outputPath": "C:\\Users\\borib\\OneDrive\\Рабочий стол\\Коды Лабораторок\\Практика\\Practice\\Task3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\borib\\AppData\\Roaming\\NuGet\\NuGet.Config",

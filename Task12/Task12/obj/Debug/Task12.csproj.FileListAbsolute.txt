@@ -4,3 +4,9 @@ C:\Users\dell\Desktop\25.05\Task12\Task12\bin\Debug\Task12.pdb
 C:\Users\dell\Desktop\25.05\Task12\Task12\obj\Debug\Task12.exe
 C:\Users\dell\Desktop\25.05\Task12\Task12\obj\Debug\Task12.pdb
 C:\Users\dell\Desktop\25.05\Task12\Task12\obj\Debug\Task12.csprojAssemblyReference.cache
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Practice\Task12\Task12\bin\Debug\Task12.exe.config
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Practice\Task12\Task12\bin\Debug\Task12.exe
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Practice\Task12\Task12\bin\Debug\Task12.pdb
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Practice\Task12\Task12\obj\Debug\Task12.csprojAssemblyReference.cache
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Practice\Task12\Task12\obj\Debug\Task12.exe
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Practice\Task12\Task12\obj\Debug\Task12.pdb

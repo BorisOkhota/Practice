@@ -1,13 +1,13 @@
 ﻿using System;
 
-namespace Zadacha5
+namespace Task5
 {
     class Program
     {
         static void Main(string[] args)
         {
             bool ok = false;
-            int n = 0; //размерность матрицы
+            int n = 0;                  //размерность матрицы
             string Vivod = null;
 
             Console.WriteLine("Введите размерность матрицы");

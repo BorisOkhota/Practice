@@ -44,8 +44,9 @@ namespace Task12
                     }
                 }
             }
-            public int[] Transform(List<int> elements = null)
+            public int[] Transform(List<int> elements, ref int countSwap)
             {
+                countSwap += 1;
                 if (elements == null)
                 {
                     elements = new List<int>();
@@ -53,14 +54,14 @@ namespace Task12
 
                 if (Left != null)
                 {
-                    Left.Transform(elements);
+                    Left.Transform(elements, ref countSwap);
                 }
 
                 elements.Add(Data);
 
                 if (Right != null)
                 {
-                    Right.Transform(elements);
+                    Right.Transform(elements, ref countSwap);
                 }
 
                 return elements.ToArray();
@@ -88,14 +89,14 @@ namespace Task12
                 {
                     countComp++;
                     countSwap++;
-                    Swap(ref arr[left],ref arr[right]);
+                    Swap(ref arr[left], ref arr[right]);
                     left++;
                     right--;
                 }
             }
             if (begin < right)
             {
-                QuickSort(ref arr, begin, left - 1,ref countComp,ref countSwap);
+                QuickSort(ref arr, begin, left - 1, ref countComp, ref countSwap);
             }
             if (end > left)
             {
@@ -104,12 +105,13 @@ namespace Task12
         }
         public static int[] TreeSort(int[] array, ref int countComp, ref int countSwap)
         {
+            List<int> elements = null;
             var treeNode = new TreeNode(array[0]);
             for (int i = 1; i < array.Length; i++)
             {
                 treeNode.Insert(new TreeNode(array[i]),ref countComp);
             }
-            return treeNode.Transform();
+            return treeNode.Transform(elements, ref countSwap);
         }
         static void Swap(ref int l, ref int r)
         {
@@ -163,7 +165,7 @@ namespace Task12
             var arrQuick = arr;
             var arrBin = arr;
             Console.WriteLine();
-            arr=TreeSort(arrBin,ref countCompBin, ref countSwapBin);
+            arr = TreeSort(arrBin,ref countCompBin, ref countSwapBin);
             QuickSort(ref arrQuick, 0, n - 1, ref countCompQuick, ref countSwapQuick);
             Console.WriteLine($"Результат быстрой сортировки");
             for(int i = 0; i < n; ++i)
@@ -177,6 +179,8 @@ namespace Task12
                 Console.Write(arrBin[i].ToString() + " ");
             }
             Console.WriteLine($"\n Сортировка сделала {countCompBin} сравнений и {countSwapBin} перестановок\n");
+            //////////////////
+            ///
             //////////////////
             Console.WriteLine("Возрастающая последовательность чисел");
             countSwapQuick = 0; countCompQuick = 0;
@@ -204,6 +208,8 @@ namespace Task12
             }
             Console.WriteLine($"\n Сортировка сделала {countCompBin} сравнений и {countSwapBin} перестановок\n");
             //////////////////////
+            ///
+            /////////////////////
             Console.WriteLine("Убывающая последовательность чисел");
             countSwapQuick = 0; countCompQuick = 0;
             countSwapBin = 0; countCompBin = 0;

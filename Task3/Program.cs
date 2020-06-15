@@ -22,7 +22,7 @@ namespace Zadacha3
                 catch (Exception)
                 {
                     ok = false;
-                    Console.WriteLine("Неверный формат. Введите целое число..");
+                    Console.WriteLine("Неверный формат. Введите вещественное число..");
                 }
             }
 

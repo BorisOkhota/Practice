@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\borib\\OneDrive\\Рабочий стол\\Коды Лабораторок\\Практика\\Zadacha4\\Zadacha4.csproj": {}
+    "C:\\Users\\borib\\OneDrive\\Рабочий стол\\Коды Лабораторок\\Практика\\Practice\\Task4\\Zadacha4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\borib\\OneDrive\\Рабочий стол\\Коды Лабораторок\\Практика\\Zadacha4\\Zadacha4.csproj": {
+    "C:\\Users\\borib\\OneDrive\\Рабочий стол\\Коды Лабораторок\\Практика\\Practice\\Task4\\Zadacha4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\borib\\OneDrive\\Рабочий стол\\Коды Лабораторок\\Практика\\Zadacha4\\Zadacha4.csproj",
+        "projectUniqueName": "C:\\Users\\borib\\OneDrive\\Рабочий стол\\Коды Лабораторок\\Практика\\Practice\\Task4\\Zadacha4.csproj",
         "projectName": "Zadacha4",
-        "projectPath": "C:\\Users\\borib\\OneDrive\\Рабочий стол\\Коды Лабораторок\\Практика\\Zadacha4\\Zadacha4.csproj",
+        "projectPath": "C:\\Users\\borib\\OneDrive\\Рабочий стол\\Коды Лабораторок\\Практика\\Practice\\Task4\\Zadacha4.csproj",
         "packagesPath": "C:\\Users\\borib\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\borib\\OneDrive\\Рабочий стол\\Коды Лабораторок\\Практика\\Zadacha4\\obj\\",
+        "outputPath": "C:\\Users\\borib\\OneDrive\\Рабочий стол\\Коды Лабораторок\\Практика\\Practice\\Task4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\borib\\AppData\\Roaming\\NuGet\\NuGet.Config",
