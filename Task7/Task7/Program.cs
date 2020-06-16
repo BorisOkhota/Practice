@@ -152,23 +152,30 @@ namespace Task7
             Console.WriteLine("Введите количество кодовых слов");
             int n = ReadInt(0);
             int[] lengthsOfWords= new int[n];
+
             do
             {
                 Console.WriteLine("Введите длины кодовых слов");
+
                 for(int i = 0; i < n; ++i)
                 {
                     Console.WriteLine($"Введите длину {i+1} слова");
                     lengthsOfWords[i] = ReadInt(0);
                 }
+
                 isOk = CheckLengths(lengthsOfWords);
+
                 if (!isOk)
                     Console.WriteLine("Ошибка! Введенные длины кодовых слов не прошли проверку по неравенству Макмиллана. Повторите ввод.");
             } while (!isOk);
+
             var tree = Solve(lengthsOfWords);
+
             if (Tree.words.Count > n)
             {
                 Console.WriteLine("Нельзя составить");
-            } else
+            } 
+            else
             {
                 Console.Write("Построенный суффиксный двоичный код: ");
                 foreach (string word in Tree.words)
@@ -181,6 +188,7 @@ namespace Task7
 
                 Console.WriteLine();
             }
+            Console.ReadLine();
         }
     }
 }

@@ -35,11 +35,19 @@ namespace Task5
 
             int[,] Massivb = new int[n, n];
             Random rnd = new Random(); 
-            Console.WriteLine("Введите матрицу");
 
             for (int i = 0; i < n; i++)
                 for (int j = 0; j < n; j++)
-                    Massivb[i, j] = rnd.Next(-100, 10);
+                    Massivb[i, j] = rnd.Next(-100, 30);
+
+            Console.WriteLine("Заполненная матрица такова...");
+            for (int i = 0; i < n; i++)
+            {
+                Console.WriteLine();
+                for (int j = 0; j < n; j++)
+                    Console.Write(" " + Massivb[i, j]);
+            }
+            Console.WriteLine();
 
             bool check = false;
             for (int i = 0; i < n; i++)
@@ -58,6 +66,7 @@ namespace Task5
             }
 
             Console.WriteLine($"Ваш вывод:{Vivod}");
+            Console.ReadLine();
         }
     }
 }

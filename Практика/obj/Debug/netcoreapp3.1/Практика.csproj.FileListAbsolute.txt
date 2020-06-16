@@ -9,3 +9,14 @@ C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\
 C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Практика\bin\Debug\netcoreapp3.1\Практика.pdb
 C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Практика\obj\Debug\netcoreapp3.1\Практика.dll
 C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Практика\obj\Debug\netcoreapp3.1\Практика.pdb
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Practice\Практика\bin\Debug\netcoreapp3.1\Практика.exe
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Practice\Практика\bin\Debug\netcoreapp3.1\Практика.deps.json
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Practice\Практика\bin\Debug\netcoreapp3.1\Практика.runtimeconfig.json
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Practice\Практика\bin\Debug\netcoreapp3.1\Практика.runtimeconfig.dev.json
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Practice\Практика\bin\Debug\netcoreapp3.1\Практика.dll
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Practice\Практика\bin\Debug\netcoreapp3.1\Практика.pdb
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Practice\Практика\obj\Debug\netcoreapp3.1\Практика.csprojAssemblyReference.cache
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Practice\Практика\obj\Debug\netcoreapp3.1\Практика.AssemblyInfoInputs.cache
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Practice\Практика\obj\Debug\netcoreapp3.1\Практика.AssemblyInfo.cs
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Practice\Практика\obj\Debug\netcoreapp3.1\Практика.dll
+C:\Users\borib\OneDrive\Рабочий стол\Коды Лабораторок\Практика\Practice\Практика\obj\Debug\netcoreapp3.1\Практика.pdb

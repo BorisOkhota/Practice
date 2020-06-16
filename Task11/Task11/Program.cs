@@ -51,6 +51,7 @@ namespace Task11
             string encode = Encode(code, ref dictCode, ref dictEncode);
             Console.WriteLine("Дешифрованная последовательсность");
             Console.WriteLine(encode);
+            Console.ReadLine();
         }
     }
 }

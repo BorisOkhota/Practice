@@ -93,6 +93,7 @@ namespace Task10
 			string str = "";
 			tree.Run(0, null, ref str);
 			Console.WriteLine(str);
+			Console.ReadLine();
 		}
 	}
 }

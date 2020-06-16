@@ -141,6 +141,7 @@ namespace Task9
             Console.WriteLine(arr.PrintList());
             ans = arr.Search(3);
             Console.WriteLine("Элемента 3 нет в последоовательности");
+            Console.ReadLine();
         }
     }
 }

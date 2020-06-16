@@ -114,6 +114,7 @@ namespace Task8
                 for (int i = 0; i < n; ++i)
                     Console.Write(col[i] + " ");
             }
+            Console.ReadLine();
         }
     }
 }

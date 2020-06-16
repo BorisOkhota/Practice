@@ -235,7 +235,7 @@ namespace Task12
                 Console.Write(arrBin[i].ToString() + " ");
             }
             Console.WriteLine($"\n Сортировка сделала {countCompBin} сравнений и {countSwapBin} перестановок");
-
+            Console.ReadLine();
         }
     }
 }

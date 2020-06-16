@@ -82,6 +82,7 @@ namespace Task6
                 }
             }
             Console.WriteLine($"Всего таких пар {count}");
+            Console.ReadLine();
         }
     }
 }
